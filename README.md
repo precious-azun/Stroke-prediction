@@ -16,12 +16,12 @@ This article will demonstrate how different Machine Learning Algorithms can be a
 
 ---
 
-**2. DESCRIPTION OF DATASET:**
+2. **DESCRIPTION OF DATASET:**
 The data set is publicly available on the Kaggle website, and it consists of proprietary data and is used for educational purposes. The classification goal is to predict whether the patient has a 10-year risk of future stroke. The dataset contains patient information which includes over 5,110 records and 11 clinical key features for stroke events. Each attribute is a potential risk factor. There are both demographic, behavioural and medical risk factors.
 
 **Attribute Information:**
 
-**1. Demographic Information**
+1. **Demographic Information**
 Gender: "Male", "Female" (Nominal)
 
 Age: age of the patient (Continuous)
@@ -32,13 +32,13 @@ Work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed" 
 
 Residence_type: "Rural" or "Urban (Nominal)
 
-**2. Medical History**
+2. **Medical History**
 Hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension (Nominal)
 
 Heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has heart disease (Nominal)
 
-**
-3. Current health status:**
+
+3. **Current health status:**
 Avg_glucose_level: average glucose level in the blood (Continuous)
 
 BMI: Body mass index click here to know more (Continuous)
@@ -46,8 +46,8 @@ BMI: Body mass index click here to know more (Continuous)
 4. **Behavioural status:**
 Smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown" (Continuous)
 
-**
-TARGET VARIABLE:**
+
+**TARGET VARIABLE:**
 The aim is to predict whether or not the patient will suffer a stroke in the next ten years.
 
 Stroke: 1 if the patient had a stroke or 0 if not (Nominal)
