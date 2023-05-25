@@ -1,4 +1,4 @@
-# A Machine Learning Approach to Stroke Risk Predictio
+# A Machine Learning Approach to Stroke Risk Prediction
 ![STROKE](https://user-images.githubusercontent.com/107571666/176862005-574af185-649f-461e-a535-8e37bd5747c0.jpg)
 
 ---
